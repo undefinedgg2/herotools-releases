@@ -1,0 +1,2 @@
+Versao 1.0.2
+- Corrigido bug de usar várias vezes a água amaldiçoada

@@ -1,3 +1,0 @@
-Versao 1.0.1
-- Corrigido bug do Doce de Elvira usar muitas vezes quando estava com Grito da Mandragora
-- Corrigido os pergaminhos de encantamento
