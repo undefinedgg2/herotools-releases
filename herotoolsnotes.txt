@@ -1,2 +1,2 @@
-Versao 1.0.4
-- Adicionado a macro de transferência de item
+Versao 1.0.5
+- Melhoria ao aplicar o delay das habilidades e itens
