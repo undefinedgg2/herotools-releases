@@ -1,2 +1,3 @@
-Versao 1.0.5
-- Melhoria ao aplicar o delay das habilidades e itens
+Versao 1.0.6
+- Agora o Hero Tools pausa ao abrir o captcha de segurança e inicia assim que validado.
+- Adicionado a habilidade Feitiço Encantado.
