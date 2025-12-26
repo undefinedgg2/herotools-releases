@@ -1,4 +1,2 @@
-Versao 1.0.7
-- Agora o Hero Tools pausa ao abrir o captcha de segurança e inicia assim que validado.
-- Adicionado a habilidade Feitiço Encantado.
-- Adicionado uma melhoria no protocolo de segurança ao atualizar a versão.
+Versao 1.0.8
+- Ajustado algumas habilidades e consumíveis que estavam utilizando várias vezes.
