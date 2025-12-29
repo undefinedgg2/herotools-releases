@@ -1,2 +1,4 @@
-Versao 1.0.8
-- Ajustado algumas habilidades e consumíveis que estavam utilizando várias vezes.
+Versao 1.0.9
+- Corrigido um problema onde não reconhecia a habilidade Inspiração do ninja.
+- Adicionado a habilidade Proteção Química Total como habilidade utilizavél.
+- Adicionado a habilidade Proteção Química Total na aba Auto Switch.
