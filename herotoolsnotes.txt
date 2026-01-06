@@ -1,4 +1,3 @@
-Versao 1.0.9
-- Corrigido um problema onde não reconhecia a habilidade Inspiração do ninja.
-- Adicionado a habilidade Proteção Química Total como habilidade utilizavél.
-- Adicionado a habilidade Proteção Química Total na aba Auto Switch.
+Versao 1.1.1
+- Adicionado o buff Sabedoria do Espiritualista.
+- Implementado uma melhoria para não "crashar" o jogo ao iniciar o HeroTools.
