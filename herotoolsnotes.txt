@@ -1,3 +1,2 @@
-Versao 1.1.1
-- Adicionado o buff Sabedoria do Espiritualista.
-- Implementado uma melhoria para não "crashar" o jogo ao iniciar o HeroTools.
+Versao 1.1.2
+- Adicionado a habilidade Encanto de Órion.
