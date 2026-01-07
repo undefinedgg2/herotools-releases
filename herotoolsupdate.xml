@@ -2,4 +2,5 @@
     <version>1.1.2</version>
     <url>https://github.com/undefinedgg2/herotools-releases/raw/refs/heads/main/HeroToolsV1.1.2.zip</url>
 	<changelog>https://raw.githubusercontent.com/undefinedgg2/herotools-releases/refs/heads/main/herotoolsnotes.txt</changelog>
+	<mandatory>true</mandatory>
 </item>
