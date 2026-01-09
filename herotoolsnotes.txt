@@ -1,2 +1,4 @@
-Versao 1.1.2
-- Adicionado a habilidade Encanto de Órion.
+Versao 1.1.3
+- Adicionado as habilidades Benção e Aumentar Agilidade.
+- Adicionado uma função para desabilitar os auto buffs.
+- Adicionado uma função para desligar o Hero Tools quando estiver com chat aberto.
