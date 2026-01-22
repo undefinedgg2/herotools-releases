@@ -1,3 +1,2 @@
-Versao 1.1.4
-- Adaptado o HeroTools para funcionar com o novo CORE do Hero.
-- Inserido uma nova funcionalidade para habilitar o click esquerdo do mouse infinitamente com opção de ligar e desligar. Muito útil para refino.
+Versao 1.1.5
+- Reformulação para funcionar com o novo Hero Saga.
