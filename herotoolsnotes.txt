@@ -1,2 +1,2 @@
-Versao 1.1.6
-- Adicionado compatibilidade com os dois servidores: Hero Ragnarok e Hero Saga.
+Versao 1.1.7
+- Adicionado os target buffs de Xamã (Soul Ascetic)
