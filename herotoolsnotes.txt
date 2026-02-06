@@ -1,2 +1,5 @@
-Versao 1.1.7
-- Adicionado os target buffs de Xamã (Soul Ascetic)
+Versao 1.1.8
+- Revisado todo o código para corrigir "crashes" no client do Hero Saga.
+- Agora o Hero Tools não ficará mais somente na área de notificação (System Tray) quando minimizado.
+- Foi implementado uma função que impede de abrir vários Hero Tools.
+- Foram incluídas as habilidades Espírito da Fada, Espírito das Sombras, Espírito do Falcão e Espírito do Golem.
