@@ -1,4 +1,4 @@
-Versao 1.1.9
-- Adicionado um campo para configurar o ms para o clique infinito.
-- Ajustado alguns "checksboxes" que não salvava ao fechar o Hero Tools.
-- Ajustado uma situação onde o Hero Tools se perdia e usava comandos infinitos.
+Versao 1.2.0
+- Ajustado a aba de skill timer que estava em segundos e não em ms.
+- Removido uma checagem adicional em memoria que estava "atrasando" um pouco o spam.
+- Ajustado a função que controla o ligar/desligar do Hero Tools para usuários de Linux.
