@@ -1,4 +1,4 @@
-Versao 1.2.2
+Versao 1.2.3
 - Total compatibilidade com o novo cliente do Hero Saga
 - Estabilidade Aprimorada (Fim dos Travamentos e Fechamentos Inesperados)
 - Desempenho Otimizado (Menos Uso de CPU e Computador Mais Leve)
