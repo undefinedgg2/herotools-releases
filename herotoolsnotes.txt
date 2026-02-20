@@ -1,4 +1,5 @@
-Versao 1.2.0
-- Ajustado a aba de skill timer que estava em segundos e não em ms.
-- Removido uma checagem adicional em memoria que estava "atrasando" um pouco o spam.
-- Ajustado a função que controla o ligar/desligar do Hero Tools para usuários de Linux.
+Versao 1.2.1
+- Estabilidade Aprimorada (Fim dos Travamentos e Fechamentos Inesperados)
+- Desempenho Otimizado (Menos Uso de CPU e Computador Mais Leve)
+- Adicionado opção na aba de configuração para escolher a resolução do Hero Tools
+- Adicionado camadas extras de segurança
