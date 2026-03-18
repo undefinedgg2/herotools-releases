@@ -1,6 +1,6 @@
-Versao 1.2.3
-- Total compatibilidade com o novo cliente do Hero Saga
-- Estabilidade Aprimorada (Fim dos Travamentos e Fechamentos Inesperados)
-- Desempenho Otimizado (Menos Uso de CPU e Computador Mais Leve)
-- Adicionado opção na aba de configuração para escolher a resolução do Hero Tools
-- Adicionado camadas extras de segurança
+Versao 1.2.4
+- Adicionado aba de logs com as informações importantes.
+- Adicionado campo de ms para controle do uso de pot verde/panaceia na aba debuff.
+- Adicionado uma nova guia para habilidades de chão. Sempre que definir uma tecla a habilidade será lançada no pé. Útil para Escudo Sagrado, Proteger Terreno, etc.
+- Removido o próprio tools da lista de servidores.
+- Revisão geral de todos os campos de ms para permitir valores maiores.
