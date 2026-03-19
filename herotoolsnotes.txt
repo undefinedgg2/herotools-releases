@@ -1,6 +1,5 @@
-Versao 1.2.4
-- Adicionado aba de logs com as informações importantes.
-- Adicionado campo de ms para controle do uso de pot verde/panaceia na aba debuff.
-- Adicionado uma nova guia para habilidades de chão. Sempre que definir uma tecla a habilidade será lançada no pé. Útil para Escudo Sagrado, Proteger Terreno, etc.
-- Removido o próprio tools da lista de servidores.
-- Revisão geral de todos os campos de ms para permitir valores maiores.
+Versao 1.2.5
+- Adicionado uma funcionalidade para andar via teclado sem atacar os bichos. Está na aba de Config.
+	- Você escolhe uma tecla e pode se mover segurando ela, o efeito do clique do mouse será desativado.
+- Adicionado a função para desligar o tools quando um chat de conversa for aberto. Está na aba de Config.
+- Corrigido um problema que duplicava o @ quando o tools estava ligado.
