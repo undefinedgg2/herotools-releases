@@ -1,5 +1,4 @@
-Versao 1.2.5
-- Adicionado uma funcionalidade para andar via teclado sem atacar os bichos. Está na aba de Config.
-	- Você escolhe uma tecla e pode se mover segurando ela, o efeito do clique do mouse será desativado.
-- Adicionado a função para desligar o tools quando um chat de conversa for aberto. Está na aba de Config.
-- Corrigido um problema que duplicava o @ quando o tools estava ligado.
+Versao 1.2.6
+- Adicionado as habilidades de Buff da classe Alitea.
+- Agora o HeroTools pausa automaticamente ao morrer.
+- Agora o HeroTools pausa automaticamente ao deslogar o personagem.
