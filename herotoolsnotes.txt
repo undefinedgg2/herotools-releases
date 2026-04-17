@@ -1,4 +1,8 @@
-Versao 1.2.6
-- Adicionado as habilidades de Buff da classe Alitea.
-- Agora o HeroTools pausa automaticamente ao morrer.
-- Agora o HeroTools pausa automaticamente ao deslogar o personagem.
+Versao 1.2.7
+- Correção na detecção de captcha — agora a leitura dos buffs é feita individualmente, garantindo detecção precisa e sem falhas.
+- As ferramentas agora pausam automaticamente quando a barra de chat/comando está aberta (tecla Enter), evitando interferências enquanto você digita.
+- Detecção de logout implementada — ao retornar para a tela de login, todas as ferramentas são desligadas automaticamente para sua segurança.
+- Agora tem a opção de atacar um mob ao andar pelo teclado.
+- Incluída a habilidade Manufacture Machine D.
+- Incluído o uso da habilidade Escamas Rochosas.
+- Melhorias gerais de estabilidade e performance.
